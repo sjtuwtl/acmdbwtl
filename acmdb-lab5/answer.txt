@@ -1,0 +1,32 @@
+Lab 1
+
+Taolei Wang, 516030910590, F1603024
+
+
+
+
+Design
+
+Tuples:
+Just finish all the requirement and do nothing special.
+
+Catalog:
+I have tried several data structure and at last found only HashMap can be used. However, exactly it's a good option to write a structure of oneself.
+
+BufferPool:
+I set the Permission to be always Read_Write and tried to use FIFO to remove the page.
+
+HeapFile:
+I implemented a HeapFileIterator implementing DbFileIterator to complete the iterator.
+
+
+
+
+Missing
+Nothing is missed.
+
+
+
+
+Time
+I spend about 10 hours to complete the project,and I think "2.6. Operators" is the most difficult and I spent most of my time on it.

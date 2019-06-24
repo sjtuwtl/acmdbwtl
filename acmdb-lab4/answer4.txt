@@ -1,0 +1,14 @@
+1.Describe any design decisions you made£º
+	if buckets number is bigger than max-min, than I put the range into the first (max-min) buckets and each bucket has one.
+
+2. Discuss and justify any changes you made to the API:
+	No
+
+3. Describe any missing or incomplete elements of your code.
+	Nothing
+
+4.Describe how long you spent on the lab, and whether there was anything you found particularly difficult or confusing.
+	About 10 hours.
+	
+5. Friendly bugs.
+	There is no base class like histogram for IntHistogram and StringHistogram.
